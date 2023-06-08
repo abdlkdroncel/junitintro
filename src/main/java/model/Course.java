@@ -1,9 +1,5 @@
 package model;
 
-/**
- * @author mucahitkurt
- * @since 12.04.2018
- */
 public class Course {
 
     private String code;

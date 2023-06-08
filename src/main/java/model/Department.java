@@ -2,10 +2,7 @@ package model;
 
 import java.util.Set;
 
-/**
- * @author mucahitkurt
- * @since 12.04.2018
- */
+
 public class Department {
 
     private String code;

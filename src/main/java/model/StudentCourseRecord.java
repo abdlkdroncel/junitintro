@@ -2,10 +2,6 @@ package model;
 
 import java.math.BigDecimal;
 
-/**
- * @author mucahitkurt
- * @since 12.04.2018
- */
 public class StudentCourseRecord {
 
     private final LecturerCourseRecord lecturerCourseRecord;

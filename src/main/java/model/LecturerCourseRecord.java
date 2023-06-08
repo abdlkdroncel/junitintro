@@ -1,9 +1,5 @@
 package model;
 
-/**
- * @author mucahitkurt
- * @since 12.04.2018
- */
 public class LecturerCourseRecord {
 
     private final Course course;

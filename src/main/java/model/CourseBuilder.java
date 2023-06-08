@@ -1,9 +1,6 @@
 package model;
 
-/**
- * @author mucahitkurt
- * @since 19.04.2018
- */
+
 public class CourseBuilder {
     private final Course course;
 

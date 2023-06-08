@@ -7,10 +7,7 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * @author mucahitkurt
- * @since 12.04.2018
- */
+
 public class Student implements UniversityMember {
 
     private final String id;

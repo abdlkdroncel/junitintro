@@ -4,10 +4,6 @@ import java.time.LocalDate;
 
 import static model.Semester.Term.*;
 
-/**
- * @author mucahitkurt
- * @since 12.04.2018
- */
 public class Semester {
 
     private final int year;
