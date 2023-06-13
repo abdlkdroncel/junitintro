@@ -68,4 +68,6 @@ public class StudentTest {
 
         assertAll(()->assertEquals("kadir",student.getName()));
     }
+
+
 }
